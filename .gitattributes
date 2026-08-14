@@ -1,0 +1,6 @@
+public/**/*.html linguist-vendored
+dist/* linguist-vendored
+node_modules/* linguist-vendored
+*.ts linguist-detectable
+app/*.tsx linguist-detectable
+*.png binary
