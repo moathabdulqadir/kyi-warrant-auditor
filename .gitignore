@@ -1,0 +1,9 @@
+build/
+.pnpm-store/
+coverage/
+yarn-error.log*
+dist/
+.env
+npm-debug.log*
+.next/
+.env.local
